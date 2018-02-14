@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 
 using Foundation;
@@ -14,9 +15,23 @@ namespace FontParser.iOS
         {
             global::Xamarin.Forms.Forms.Init();
 
+
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
+        }
+
+        [Conditional("DEBUG")]
+        void PrintFontNamesToConsole()
+        {
+            foreach (var fontFamilyName in UIFont.FamilyNames)
+            {
+                Console.WriteLine(fontFamilyName);
+
+                foreach (var fontName in UIFont.FontNamesForFamilyName(fontFamilyName))
+                    Console.WriteLine($"={fontName}");
+            }
         }
     }
 }
