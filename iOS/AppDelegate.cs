@@ -15,7 +15,7 @@ namespace FontParser.iOS
         {
             global::Xamarin.Forms.Forms.Init();
 
-
+            PrintFontNamesToConsole();
 
             LoadApplication(new App());
 
