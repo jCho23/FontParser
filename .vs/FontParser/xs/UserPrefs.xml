@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{73DD6983-8FFB-4E40-8467-80125297517B}|Default">
+  <MonoDevelop.Ide.ItemProperties.FontParser.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6789AC6-1DE1-46A4-9FF5-7B6749B43E9A">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.FontParser.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="iOS/AppDelegate.cs" Line="18" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
