@@ -2,11 +2,10 @@
   <MonoDevelop.Ide.ItemProperties.FontParser.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1FD55ABA-C601-4056-96A4-7019E9DEF4B8">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.FontParser.iOS>
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/LaunchScreen.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
     <Files>
       <File FileName="iOS/AppDelegate.cs" Line="18" Column="39" />
       <File FileName="FontParser/FontParserPage.xaml" Line="5" Column="1" />
-      <File FileName="iOS/LaunchScreen.storyboard" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
